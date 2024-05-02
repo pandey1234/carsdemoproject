@@ -1,0 +1,34 @@
+//Task1 
+We have created the login form 
+Create the entries with name , phone, emeil , subject, message
+
+//task2 
+For making the css good we use the properties
+Adjust the size of the form and justify at center 
+
+//task3
+Now another create one file with contact_form.php
+First of validate the form  databy usinge the post method 
+check validation for name ,phone, email 
+
+//task4
+Now create the database in the phpmyadmin
+create the table with name contact_form
+create the column with name , phone, email , subject, message
+
+
+//task5 
+build the connection to the database created in the phpmyadamin
+chevk the connection success or not 
+
+//task6
+Now create the query to insert the data into the database
+Now create the query to select the data from the database
+
+//task7
+sending email notification the form data to the admin
+
+
+//task8
+Now close the database 
+and hece the form submitted 
